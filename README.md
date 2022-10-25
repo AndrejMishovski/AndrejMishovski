@@ -15,7 +15,4 @@
 <p align="center">
   <img height="80em" src="https://discord.c99.nl/widget/theme-2/901952969216499814.png"/>
 </a>
-
-<br>
-
 </a>
