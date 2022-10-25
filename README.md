@@ -3,8 +3,8 @@
 <br>
 <p align="center">
 <a href="https://github.com/AndrejMishovski">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ancho&show_icons=true&theme=react&include_all_commits=true&locale=fr"/>
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ancho&layout=compact&langs_count=8&theme=react&locale=fr"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AndrejMishovski&show_icons=true&theme=react&include_all_commits=true&locale=fr"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AndrejMishovski&layout=compact&langs_count=8&theme=react&locale=fr"/>
 </a>
 
 
@@ -17,9 +17,5 @@
 </a>
 
 <br>
-<p align="center">
-
-  </center>My Discord Server: https://discord.gg/FvyEuNQ7qu</center>
-  
 
 </a>
